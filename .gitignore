@@ -1,0 +1,27 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribution / build
+dist/
+build/
+*.spec
+
+# Executable binaries
+*.exe
+*.dll
+*.pyd
+*.so
+
+# Logs and backups
+logs/
+Backup/
+
+# IDE/project files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
