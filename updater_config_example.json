@@ -1,0 +1,8 @@
+{
+  "releases_url": "https://github.com/your-user/lon/releases/latest/download/Lon.exe",
+  "expected_sha256_url": "https://github.com/your-user/lon/releases/latest/download/Lon.exe.sha256",
+  "app_process_name": "Lon.exe",
+  "install_path": "C:/Program Files/Lon/Lon.exe",
+  "backup_path": "C:/ProgramData/Lon/Backup",
+  "min_version": "1.0.0"
+}
